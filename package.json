@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-intro",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "concurrently \"sass --watch scss:css\" \"live-server\"",
+    "build": "sass scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmachens/bootstrap-intro.git"
+  },
+  "keywords": [],
+  "author": "Leon Machens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmachens/bootstrap-intro/issues"
+  },
+  "homepage": "https://github.com/lmachens/bootstrap-intro#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "sass": "^1.26.11"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "live-server": "^1.2.1"
+  }
+}
