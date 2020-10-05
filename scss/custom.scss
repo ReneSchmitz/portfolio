@@ -13,3 +13,63 @@ $font-family-base: Arial;
 body {
   margin: 20px;
 }
+
+#slides {
+  background-color: #000;
+  opacity: 90%;
+  margin-bottom: 60px;
+}
+
+#about {
+  color: #808080;
+  margin-top: 20px;
+}
+
+#about h2 {
+  color: #303030;
+  padding: 40px 20px 20px 20px;
+}
+
+.aboutImage {
+  max-width: 100%;
+  padding: 20px;
+  opacity: 90%;
+}
+
+#about p {
+  margin: 20px;
+}
+
+#detail {
+  color: #808080;
+  margin-top: 20px;
+}
+
+#detail h2 {
+  color: #303030;
+  padding: 40px 20px 20px 20px;
+}
+
+#detail p {
+  margin: 20px;
+}
+
+#work {
+  color: #808080;
+  margin-top: 20px;
+}
+
+#work h2 {
+  color: #303030;
+  padding: 40px 20px 20px 20px;
+}
+
+#work p {
+  margin: 20px 20px 60px 20px;
+}
+
+footer {
+  background-color: #dcdcdc;
+  text-align: center;
+  padding: 40px 20px 40px 20px;
+}
